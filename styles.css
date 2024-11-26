@@ -1,0 +1,17 @@
+/* styles.css */
+.image-canvas {
+    border: 1px solid #ccc;
+    margin: 5px;
+}
+.image-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.image-wrapper {
+    margin: 10px;
+}
+.keypoints-label {
+    text-align: center;
+    margin-top: 5px;
+}
